@@ -8,7 +8,7 @@ const multi=(a,b)=>{
     return a*b;
 }
 const x=()=>{
-    return("Hi");
+    return("Hello");
 }
 
 module.exports={sum,diff,multi}
